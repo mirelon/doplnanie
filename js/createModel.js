@@ -1,6 +1,7 @@
 import { korpus } from "./korpus.js";
 
 export function createModel() {
+    console.log('createModel')
     let slova = []
     let bigramy = []
     let trigramy = []

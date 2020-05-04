@@ -3,6 +3,7 @@ import { createModel } from "./createModel.js";
 const model = createModel();
 
 function skus(slova) {
+    console.log(`skus(${slova})`)
     if (slova.length === 3) {
         for (const trigram of model.trigramy) {
             if (slova[0] === trigram[0] && slova[1] === trigram[1] && trigram[2].startsWith(slova[3])) {
@@ -25,7 +26,6 @@ function skus(slova) {
     }
     if (slova.length === 1) {
         for (const trigram of model.trigramy) {
-            console.log(model.trigramy)
             if (trigram[0].startsWith(slova[0])) {
                 return `${trigram[0].slice(slova[0].length)} ${trigram[1]} ${trigram[2]}`;
             }
