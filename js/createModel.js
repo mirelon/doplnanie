@@ -2,7 +2,7 @@ import { korpus } from "./korpus.js";
 
 export function createModel() {
     console.log('createModel')
-    let slova = []
+    let slova = {}
     let bigramy = []
     let trigramy = []
     const eachCons = (array, num) => {
@@ -11,8 +11,12 @@ export function createModel() {
     }
     const vety = korpus().toLowerCase().split(/\.\s*/)
     for (const veta of vety) {
-        const s = veta.split(/[\s,()]+/)
-        slova.push(s);
+        const s = veta.split(/[\s,():„“]+/)
+        for (const slovo of s) {
+            if (slovo.length > 2 && slovo.match(/[a-záäčďéíĺľňóôŕřšťúýž]/)) {
+                slova[slovo] = (slova[slovo] || 0) + 1;
+            }
+        }
         bigramy.push(eachCons(s, 2));
         trigramy.push(eachCons(s, 3));
     }

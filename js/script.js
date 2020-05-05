@@ -29,8 +29,10 @@ $(function () {
         if (text !== null) {
             console.log(text);
             const pok = pokracovanie(text);
-            console.log(`Doplnam ${pok}`);
-            suggest.text(pok);
+            if (pok) {
+                console.log(`Doplnam ${pok}`);
+                suggest.text(pok);
+            }
         }
     })
 })
