@@ -3,58 +3,98 @@ import { createModel } from "./createModel.js";
 const model = createModel();
 
 function skus(slova) {
-    console.log(`skus(${slova})`)
+    console.log(`skus(${slova})`);
+    let maxes = {}
     if (slova.length === 3) {
-        for (const trigram of model.trigramy) {
-            if (slova[0] === trigram[0] && slova[1] === trigram[1] && trigram[2].slice(0,-1).startsWith(slova[3])) {
-                console.log('Found trigram from 3 words!')
-                return trigram[2].slice(slova[3].length);
+        let maxTrigramScore = 0;
+        let maxTrigram;
+        for (const trigramString in model.trigramy) {
+            const trigram = trigramString.split(',');
+            if (slova[0] === trigram[0] && slova[1] === trigram[1] && trigram[2].slice(0,-1).startsWith(slova[2]) && model.trigramy[trigram] > maxTrigramScore) {
+                maxTrigramScore = model.trigramy[trigram];
+                maxTrigram = trigram;
             }
         }
-        console.log('Not found from 3 words...')
+        if (maxTrigram) {
+            console.log(`Found trigram ${maxTrigram} from 3 words, with score ${maxTrigramScore}!`);
+            return `${maxTrigram[2].slice(slova[2].length)}`;
+        }
+        console.log('Not found from 3 words...');
         return skus(slova.slice(1));
     }
     if (slova.length === 2) {
-        for (const trigram of model.trigramy) {
-            if (slova[0] === trigram[0] && trigram[1].startsWith(slova[1])) {
-                console.log('Found trigram from 2 words!')
-                return `${trigram[1].slice(slova[1].length)} ${trigram[2]}`;
+        let maxTrigramScore = 0;
+        let maxTrigram;
+        for (const trigramString in model.trigramy) {
+            const trigram = trigramString.split(',');
+            if (slova[0] === trigram[0] && trigram[1].startsWith(slova[1]) && model.trigramy[trigram] > maxTrigramScore) {
+                maxTrigramScore = model.trigramy[trigram];
+                maxTrigram = trigram;
             }
         }
-        for (const bigram of model.bigramy) {
-            if (slova[0] === bigram[0] && bigram[1].slice(0,-1).startsWith(slova[1])) {
-                console.log('Found bigram from 2 words!')
-                return bigram[1].slice(slova[1].length);
+        if (maxTrigram) {
+            console.log(`Found trigram ${maxTrigram} from 2 words, with score ${maxTrigramScore}!`);
+            return `${maxTrigram[1].slice(slova[1].length)} ${maxTrigram[2]}`;
+        }
+        let maxBigramScore = 0;
+        let maxBigram;
+        for (const bigramString in model.bigramy) {
+            const bigram = bigramString.split(',');
+            if (slova[0] === bigram[0] && bigram[1].slice(0,-1).startsWith(slova[1]) && model.bigramy[bigram] > maxBigramScore) {
+                maxBigramScore = model.bigramy[bigram];
+                maxBigram = bigram;
             }
+        }
+        if (maxBigram) {
+            console.log(`Found bigram ${maxBigram} from 2 words, with score ${maxBigramScore}!`);
+            return `${maxBigram[1].slice(slova[1].length)}`;
         }
         console.log('Not found from 2 words...')
         return skus(slova.slice(1));
     }
     if (slova.length === 1) {
-        for (const trigram of model.trigramy) {
-            if (trigram[0].startsWith(slova[0])) {
-                console.log('Found trigram from 1 word!')
-                return `${trigram[0].slice(slova[0].length)} ${trigram[1]} ${trigram[2]}`;
+        let maxTrigramScore = 0;
+        let maxTrigram;
+        for (const trigramString in model.trigramy) {
+            const trigram = trigramString.split(',');
+            if (trigram[0].startsWith(slova[0]) && model.trigramy[trigram] > maxTrigramScore) {
+                maxTrigramScore = model.trigramy[trigram];
+                maxTrigram = trigram;
             }
         }
-        for (const bigram of model.bigramy) {
-            if (bigram[0].startsWith(slova[0])) {
-                console.log('Found bigram from 1 word!')
-                return `${bigram[0].slice(slova[0].length)} ${bigram[1]}`;
+        if (maxTrigram) {
+            console.log(`Found trigram ${maxTrigram} from 1 word, with score ${maxTrigramScore}!`);
+            maxes[`${maxTrigram[0].slice(slova[0].length)} ${maxTrigram[1]} ${maxTrigram[2]}`] = 3 * maxTrigramScore;
+        }
+        let maxBigramScore = 0;
+        let maxBigram;
+        for (const bigramString in model.bigramy) {
+            const bigram = bigramString.split(',');
+            if (bigram[0].startsWith(slova[0]) && model.bigramy[bigram] > maxBigramScore) {
+                maxBigramScore = model.bigramy[bigram];
+                maxBigram = bigram;
             }
         }
-        let maxScore = 0;
-        let maxSlovo;
-        for (const slovo in model.slova) {
-            if (slovo.slice(0,-1).startsWith(slova[0]) && model.slova[slovo] > maxScore) {
-                maxScore = model.slova[slovo];
-                maxSlovo = slovo;
+        if (maxBigram) {
+            console.log(`Found bigram ${maxBigram} from 1 word, with score ${maxBigramScore}!`);
+            maxes[`${maxBigram[0].slice(slova[0].length)} ${maxBigram[1]}`] = 2 * maxBigramScore;
+        }
+        let maxUnigramScore = 0;
+        let maxUnigram;
+        for (const unigram in model.unigramy) {
+            if (unigram.slice(0,-1).startsWith(slova[0]) && model.unigramy[unigram] > maxUnigramScore) {
+                maxUnigramScore = model.unigramy[unigram];
+                maxUnigram = unigram;
             }
         }
-        if (maxSlovo) {
-            console.log('Found unigram from 1 word, with score maxScore!')
-            return maxSlovo.slice(slova[0].length);
+        if (maxUnigram) {
+            console.log(`Found unigram ${maxUnigram} from 1 word, with score ${maxUnigramScore}!`)
+            maxes[maxUnigram.slice(slova[0].length)] = maxUnigramScore;
         }
+    }
+    if (Object.keys(maxes).length) {
+        console.log(maxes);
+        return Object.keys(maxes).reduce((a, b) => maxes[a] > maxes[b] ? a : b);
     }
     console.log('Not found...')
     return null;
