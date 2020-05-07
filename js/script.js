@@ -6,7 +6,6 @@ $(function () {
     const suggest = $('#suggest');
     $('textarea').focus().on('keydown', function (e) {
         const code = e.keyCode || e.which;
-        console.log(code);
         if (code === 9) {
             const caretPos = $(this).prop('selectionStart');
             const textAreaTxt = $(this).val();

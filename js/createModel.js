@@ -9,7 +9,7 @@ export function createModel() {
         return Array.from({ length: array.length - num + 1 },
             (_, i) => array.slice(i, i + num));
     }
-    const vety = korpus().toLowerCase().split(/\.\s*/);
+    const vety = korpus().toLowerCase().split(/[.()]\s*/);
     for (const veta of vety) {
         const slovaVoVete = veta.split(/[\s,():„“]+/).filter(s => s.length);
         for (const unigram of slovaVoVete) {
