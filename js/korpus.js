@@ -28,6 +28,24 @@ export function korpus() {
         'Záver: Dieťa vo veku 6 rokov a 0 mesiacov so Špecificky narušeným vývinom reči pri základnej diagnóze  ťažkej obojstrannej percepčnej poruche sluchu, vzniknutou prelingválne, ktorá je od februára 2017 korigovaná kocheárnym implantátom vpravo a od októbra 2018 korigovaná kocheárnym implantátom vľavo, KI vľavo dieťa odmieta a t.č. neužíva ( je potrebné nové nastavenie KI),  s neprimeraným porozumením reči, s narušenou foneticko-fonologickou, morfologicko-syntaktickou a lexikálno-sémantickou rovinou reči, s primeranou pragmatickou jazykovou rovinou, s preferovaním neverbálnej komunikácie, pri porozumení reči sa spolieha na odzeranie.\n' +
         'Odporúčame naďalej pravidelnú návštevu logopedickej ambulancie, so zameraním na intenzívnu pravidelnú verbálno-auditívnu rehabilitáciu a úlohy z logopedických sedení prevádzať v domácom prostredí. Dieťa si vyžaduje zvýšenú starostlivosť. Odporúčame naďalej pravidelné sledovanie na foiatrickej a neurologickej ambulancii, v centre špeciálno-pedagogického poradenstva.\n' +
         'Matke dieťaťa odporúčame prideliť opatrovateľský príspevok. '
+    +
+        'Správa z vyšetrenia: Dieťa navštevuje ambulanciu klinickej logopédie od septembra 2018 v pravidelných intervaloch 1krát za 4 týždne kvôli oneskorenému a následne narušenému vývinu reči v expresívnej a impresívnej zložke reči. Dieťa prichádza na terapiu v doprovode rodičov, rodičia sú prítomní v ambulancii počas vyšetrenia.\n' +
+        'Dieťa má staršieho súrodenca, žije v úplnej rodine, Navštevuje kolektív bežnej MŠ.\n' +
+        'Spolupráca dieťaťa je na primeranej úrovni, spočiatku je dieťa tenzné, pracuje len na neverbálnej úrovni, verbálne sa neprejavuje, neskôr sa dieťa nechá motivovať, reaguje aj verbálne na jednoduché výzvy.\n' +
+        'Zrakový kontakt spočiatku vyžiadaný, neskôr nadväzuje spontánne. Je potrebné dieťa k spolupráci motivovať, usmerniť, ale úlohu má snahu dokončiť.\n' +
+        'Dieťa komunikuje verbálnou rečou tvorenou prevažne do jednoslovných viet, často používa ešte významové zvuky. Vyjadrovanie je chudobné, doprevádzané neverbálnou komunikáciou - gestami, mimikou. Dieťa má záujem o komunikáciu, komunikácia je funkčná, prebieha výmena informácií na jednoduchej úrovni, dokáže rodičom vyjadriť svoje požiadavky a potreby.\n' +
+        'Pasívna slovná zásoba je obmedzená, dieťa rozumie základným predmetom dennej potreby, pozná hračky, zvieratá, základné jedlo, rozumie bežným činnostiam, ktoré súvisia s denným režimom a rituálmi.\n' +
+        'Porozumenie verbálnej reči je na slabšej úrovni, dieťa dokáže analyzovať prevažne jednoduché príkazy a krátke prehovory. Dejovo náročné a dlhé výpovede nedokáže analyzovať, nerozumie obsahu.\n' +
+        'Aktívna slovná zásoba je vzhľadom k veku obmedzená. Dieťa používa aktívne vzhľadom k veku obmedzené množstvo podstatných mien a slovies. Ďalšie slovné druhy používa veľmi obmedzene.\n' +
+        'Morfologicko-syntaktická rovina je obmedzená, dieťa nemá vytvorený pojem jednotného a množného čísla,\n' +
+        'nepoužíva akuzatív podstatných mien, nepoužíva predložky, nerozvinutá je priestorová a časová orientácia.\n' +
+        'Foneticko-fonologická rovina nie je zatiaľ predmetom nášho hodnotenia.\n' +
+        'Kognitívne schopnosti dieťaťa sú orientačne v pásme širšej normy.\n' +
+        'Oromotorika je oslabená. Hygienické návyky osvojené.\n' +
+        '\n' +
+        'Záver: Dieťa vo veku 4 roky a 7 mesiacov s oneskoreným a následne Narušeným vývinom reči, s primeranou pragmatickou rovinou, s oslabeným porozumením reči, s podpriemerne rozvinutou lexikálno-sémantickou rovinou a narušenou morfologicko-syntaktickou rovinou vzhľadom k veku, spolupráca je primeraná, na konci terapie osciluje, kognitívne schopnosti orientačne v pásme širšej normy.\n' +
+        'Odporúčame naďalej intenzívnu logopedickú rehabilitáciu, pravidelnú stimuláciu P-M vývinu v domácom prostredí. Odporúčame dodržiavať komunikačné stratégie, znížiť sa na úroveň dieťaťa, hovoriť priamo na, používať krátke vety na dieťa, rozvíjať a zlepšovať porozumenie reči, intenzívny rozvoj slovnej zásoby, vytvárať pojem jednotného a množného čísla, stimulovať kognitívny vývin, intenzívny oromtorický tréning.\n' +
+        'Odporúčame návštevu detského kolektívu bežnej materskej školy.'
     // +
     // 'Rodinná anamnéza: Dieťa vyrastá v úplnej rodine, súrodencov nemá. Matka aj otec majú ukončené vysokoškolské vzdelanie humanitného zamerania, obaja sú zamestnaní a pracujú v štátnej správe ( v exekutíve ). Rodina žije v meste, v rodinnom dome, A.B. má samostatnú detskú izbu.\n' +
     //     'Matka neuvádza v rodine výskyt súvzťažných druhov ochorení alebo narušení. U otca je prí-tomné zrýchlené tempo reči ( v detstve u neho bola diagnostikovaná dyslália – rotacizmus, t.č. v norme ), iné druhy NKS sa podľa neho v rodine nevyskytli. Rodičia neuvádzajú žiadne pa-tologické faktory rodinného prostredia.\n' +
