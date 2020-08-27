@@ -91,6 +91,26 @@ export function korpus() {
         'Záver: dieťa vo veku 2,11 r. s oneskoreným vývinom reči v expresívnej a v impresívnej zložke reči, s podpriemerne rozvinutou aktívnou slovnou zásobou vzhľadom k veku, s dobrými imitačnými schopnosťami, s neprimeraným správaním pri neuspokojení subjektívnych potrieb.\n' +
         'Odporúčame dodržiavať komunikačné stratégie (mamka poučená),dať dieťaťu dôvod na komunikáciu odporúčame rozvíjať porozumenie reči a lexikálno-sémantickú jazykovú rovinu, rozvíjať kognitívne schopnosti dieťaťa, odstrániť dojčenskú fľašu, zlepšovať pozornosť.\n' +
         'Odporúčame pravidelnú a intenzívnu logopedickú intervenciu. Vzhľadom k uvedenému odporúčame predĺženie rodičovskej dovolenky pre matku.'
+    +
+        'Správa z vyšetrenia: dieťa navštevuje ambulanciu klinickej logopédie od novembra 2019 pre narušený vývin reči v expresívnej a receptívnej zložke. Ide o rizikové dieťa, predčasne narodené. Dieťa žije s rodičmi v spoločnej domácnosti. Kolektív MŠ navštevuje. Mamka nie je prítomná v ambulancii počas vyšetrenia.\n' +
+        'Dieťa dodržiava pokyny a pravidlá, po výzve nadviaže zrakový kontakt, na oslovenie reaguje selektívne. Dieťa je spolupracujúce, ale koncentrácia pozornosti je oscilujúca.\n' +
+        'Dieťa komunikuje verbálnou rečou na úrovni 4 a viacslovných prehovorov. Komunikácia je funkčná, prebieha výmena informácií na jednoduchej úrovni.\n' +
+        '\n' +
+        'V reči dieťaťa evidujeme neplynulosť prehovorov. Prítomné sú dysfluencie: repetície iniciálnej slabiky, repetície iniciálneho konsonantu, ktoré mamka eviduje pravidelne.\n' +
+        'Lexikálno - sémantická jazyková rovina nie je veku primeraná. Nepoužíva plnovýznamové slovesá, zrod naratívnych schopností neevidujeme.\n' +
+        'Morfologicko-syntaktická jazyková rovina je obmedzená. Dieťa má vytvorený pojem jednotného a množného čísla, používa akuzatív podstatných mien, z predložiek sa objavili predložky NA, V, DO. V prehovoroch dieťaťa sa objavujú spojky. Verbálny prejav dieťaťa nie je vždy zrozumiteľný, prítomné sú dysgramatizmy.\n' +
+        'Foneticko-fonologická jazyková rovina je narušená. V prehovoroch dieťaťa evidujeme viacero vekovo neprimeraných fonologických procesov - redukovanie spoluhláskových zhlukov, zamieňanie slabík vo viacslabičných slovách, vynechávanie hlások aj slabík.\n' +
+        'Fonologické uvedomovanie je vo vývoji.\n' +
+        '\n' +
+        'Porozumenie reči je rozvinuté na troj až štvorslovnú úroveň (Mamka sa rozpráva, počkaj!). Správne vyhovie jednostupňovým a jednoduchým dvojstupňovým pokynom. Viacstupňovým a zložitejším logicko-gramatickým štruktúram nerozumie.\n' +
+        'Dejovo náročné a dlhé výpovede nedokáže analyzovať, nerozumie obsahu.\n' +
+        'Verbálno-sluchová pamäť je oslabená.\n' +
+        'Kognitívne schopnosti dieťaťa sú deficitné.\n' +
+        'Motorika artikulačných orgánov je diskrétne oslabená.\n' +
+        'U dieťaťa pretrváva ústna stimulácia - vkladanie prstov do úst.\n' +
+        '\n' +
+        'Záver: Dieťa vo veku 4 roky a 11 mesiacov, s rizikovou anamnézou, s narušeným vývinom reči v expresívnej a receptívnej zložke reči, s narušeným porozumením reči zložitejším gramatickým konštrukciám, s neprimeranou pragmatickou jazykovou rovinou, s oslabenou lexikálno-sémantickou jazykovou rovinou, s morfologicko-syntaktickou jazykovou rovinou neprimeranou k veku, s narušenou foneticko-fonologickou jazykovou rovinou.\n' +
+        'Odporúčame rozvíjať aktívnu a pasívnu slovnú zásobu dieťaťa, rozvíjať kognitívne schopnosti a zlepšovať pozornosť. Ďalej odporúčame dodržiavať pokyny pre komunikáciu u dieťaťa s prítomnými dysfluenciami v reči (mamka poučená). Odporúčame kontaktovať ambulanciu liečebnej pedagogiky.'
     // +
     // 'Rodinná anamnéza: Dieťa vyrastá v úplnej rodine, súrodencov nemá. Matka aj otec majú ukončené vysokoškolské vzdelanie humanitného zamerania, obaja sú zamestnaní a pracujú v štátnej správe ( v exekutíve ). Rodina žije v meste, v rodinnom dome, A.B. má samostatnú detskú izbu.\n' +
     //     'Matka neuvádza v rodine výskyt súvzťažných druhov ochorení alebo narušení. U otca je prítomné zrýchlené tempo reči ( v detstve u neho bola diagnostikovaná dyslália – rotacizmus, t.č. v norme ), iné druhy NKS sa podľa neho v rodine nevyskytli. Rodičia neuvádzajú žiadne patologické faktory rodinného prostredia.\n' +
