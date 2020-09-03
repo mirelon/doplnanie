@@ -111,6 +111,24 @@ export function korpus() {
         '\n' +
         'Záver: Dieťa vo veku 4 roky a 11 mesiacov, s rizikovou anamnézou, s narušeným vývinom reči v expresívnej a receptívnej zložke reči, s narušeným porozumením reči zložitejším gramatickým konštrukciám, s neprimeranou pragmatickou jazykovou rovinou, s oslabenou lexikálno-sémantickou jazykovou rovinou, s morfologicko-syntaktickou jazykovou rovinou neprimeranou k veku, s narušenou foneticko-fonologickou jazykovou rovinou.\n' +
         'Odporúčame rozvíjať aktívnu a pasívnu slovnú zásobu dieťaťa, rozvíjať kognitívne schopnosti a zlepšovať pozornosť. Ďalej odporúčame dodržiavať pokyny pre komunikáciu u dieťaťa s prítomnými dysfluenciami v reči (mamka poučená). Odporúčame kontaktovať ambulanciu liečebnej pedagogiky.'
+    +
+        'Správa z vyšetrenia: dieťa navštevuje ambulanciu klinickej logopédie od júla 2020 pre oneskorený vývin reči v expresívnej a receptívnej zložke. Dieťa prichádza na terapiu v doprovode rodičov, rodičia sú prítomní v ambulancii počas vyšetrenia.\n' +
+        'Dieťa žije v úplnej rodine. Kolektív MŠ nenavštevuje.\n' +
+        'Dieťa na pozdrav nereaguje, kontakt spontánne nenadviaže.\n' +
+        'Počas vyšetrenia je dieťa negatívne emocionálne ladené. Počas aktivít dieťa hľadá bezpečie u rodičov.\n' +
+        'Dieťa neplní jednoduché pokyny. Úlohy, ktoré zrealizuje vyberá selektívne. Na nevyhovenie subjektívnej žiadosti reaguje plačom. Dieťa neostáva spontánne v interakcii, neiniciuje hru.\n' +
+        'Dieťa komunikuje prevažne na neverbálnej úrovni.\n' +
+        'Porozumenie reči je vzhľadom na vek neprimerané. Vyhovie jednoduchej inštrukcii, ktorá je v subjektívnom záujme dieťaťa. Inštrukciám, ktoré nie sú v jeho záujme nevyhovie. Podľa mamky dieťa rozumie bežným denným rutinám.\n' +
+        'Z prekurzorov vývinu reči evidujeme následovné: očný kontakt dieťa nadväzuje len sporadicky, spoločná pozornosť dieťaťa je krátkodobá, riadená subjektívnymi záujmami dieťaťa, výmena rolí prebieha na krátkej úrovni, počas vyšetrenia neevidujem stálosť objektu, dieťa nemanipuluje s predmetmi dennej potreby funkčne, nerozumie činnostiam medzi predmetmi, verbálna imitácia t.č. nie je možná, motorická imitácia motivovaná je prítomná.\n' +
+        'Lexikálno-sémantická jazyková rovina nie je veku primeraná. Aktívna slovná zásoba dieťaťa je narušená. T.č. sa v spontánnom prejave dieťaťa začínajú objavovať prirodzené zvuky a prvé slová (mama, dede).Vo verbálnom prejave sa objavuje sémantická kategória popretie/odmietnutie.\n' +
+        'Morfologicko-syntaktická a foneticko-fonologická jazyková rovina zatiaľ nie sú predmetom nášho hodnotenia.\n' +
+        'Oromotorické schopnosti doposiaľ nebolo možné vyšetriť.\n' +
+        'Kognitívne schopnosti sú orientačne deficitné a vzhľadom na vek neprimerané.\n' +
+        '\n' +
+        'Záver:\n' +
+        'Pri komunikácií s dieťaťom navrhujeme dodržiavať komunikačné stratégie o ktorých bola matka dieťaťa poučená, rozvíjať porozumenie reči a aktívnu slovnú zásobu dieťaťa (podstatné mená) odporúčame rozvíjať kognitívne schopnosti a zlepšovať pozornosť dieťaťa, minimalizovať čas strávený pred TV, rozvíjať prekurzory vývinu reči, realizovať nácvik manipulácie s predmetmi, trénovať spoločnú pozornosť dieťaťa, pracovať na výmenách rolí, a rozvíjať zvukovú imitáciu dieťaťa.\n' +
+        'Odporúčame zvážiť adaptáciu dieťaťa v kolektíve rovesníkov v MŠ. Na základe vyššie uvedeného odporúčame mamke dieťaťa predĺženie rodičovskej dovolenky.\n' +
+        'Navrhujeme zotrvať v logopedickej starostlivosti a zadané úlohy na stimuláciu vývinu reči dieťaťa vykonávať aj v domácom prostredí.'
     // +
     // 'Rodinná anamnéza: Dieťa vyrastá v úplnej rodine, súrodencov nemá. Matka aj otec majú ukončené vysokoškolské vzdelanie humanitného zamerania, obaja sú zamestnaní a pracujú v štátnej správe ( v exekutíve ). Rodina žije v meste, v rodinnom dome, A.B. má samostatnú detskú izbu.\n' +
     //     'Matka neuvádza v rodine výskyt súvzťažných druhov ochorení alebo narušení. U otca je prítomné zrýchlené tempo reči ( v detstve u neho bola diagnostikovaná dyslália – rotacizmus, t.č. v norme ), iné druhy NKS sa podľa neho v rodine nevyskytli. Rodičia neuvádzajú žiadne patologické faktory rodinného prostredia.\n' +
