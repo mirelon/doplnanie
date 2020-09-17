@@ -129,6 +129,19 @@ export function korpus() {
         'Pri komunikácií s dieťaťom navrhujeme dodržiavať komunikačné stratégie o ktorých bola matka dieťaťa poučená, rozvíjať porozumenie reči a aktívnu slovnú zásobu dieťaťa (podstatné mená) odporúčame rozvíjať kognitívne schopnosti a zlepšovať pozornosť dieťaťa, minimalizovať čas strávený pred TV, rozvíjať prekurzory vývinu reči, realizovať nácvik manipulácie s predmetmi, trénovať spoločnú pozornosť dieťaťa, pracovať na výmenách rolí, a rozvíjať zvukovú imitáciu dieťaťa.\n' +
         'Odporúčame zvážiť adaptáciu dieťaťa v kolektíve rovesníkov v MŠ. Na základe vyššie uvedeného odporúčame mamke dieťaťa predĺženie rodičovskej dovolenky.\n' +
         'Navrhujeme zotrvať v logopedickej starostlivosti a zadané úlohy na stimuláciu vývinu reči dieťaťa vykonávať aj v domácom prostredí.'
+    +
+        'Správa z vyšetrenia: dieťa navštevuje ambulanciu klinickej logopédie od októbra 2019 v pravidelných intervaloch kvôli oneskorenému a následne narušenému vývin reči v expresívnej zložke. Dieťa prichádza na terapiu v doprovode mamky, mamka je prítomná počas vyšetrenia v ambulancii.\n' +
+        'Dieťa žije v úplnej rodine, navštevuje kolektív MŠ.\n' +
+        'Spolupráca dieťaťa je na primeranej úrovni. Dieťa sa s okolím dorozumieva verbálnou rečou, ktorá je fluentná, obsahovo adekvátna, ale artikulačne chybná, s prítomnými dysgramatizmami.\n' +
+        'Lexikálno-sémantická jazyková rovina sa rozvíja.\n' +
+        'Morfologicko-syntaktická jazyková rovina je vzhľadom na vek obmedzená, v prehovoroch dieťaťa sa vyskytujú dysgramatizmy, je potrebný rečový vzor zo strany komunikačných partnerov dieťaťa.\n' +
+        'V rámci foneticko-fonologickej jazykovej roviny aktuálne prebieha nácvik tvrdých a mäkkých sykaviek v slovách, konsonant L prebieha kontextová automatizácia, konsonant R prebieha nácvik mechanickou stimuláciou. Fonologické uvedomovanie je vo vývoji.\n' +
+        'Kognitívne schopnosti dieťaťa sú orientačne v pásme širšej normy.\n' +
+        'Oromotorika je mierne oslabená.\n' +
+        '\n' +
+        'Záver: Dieťa vo veku 6 rokov a 1 mesiac s oneskoreným a následne narušeným vývinom reči, s primeranou pragmatickou jazykovou rovinou, s primeraným porozumením reči, s rozvíjajúcou sa lexikálno-sémantickou jazykovou rovinou a narušenou morfologicko-syntaktickou jazykovou rovinou vzhľadom k veku, spolupráca dieťaťa je primeraná, kognitívne schopnosti sú orientačne v pásme širšej normy.\n' +
+        'Odporúčame naďalej intenzívnu logopedickú rehabilitáciu, intenzívny rozvoj slovnej zásoby, rozvoj morfologicko-syntaktickej jazykovej roviny, stimulovať kognitívny vývin, stimulovať oromotorický tréning.\n' +
+        'Vzhľadom na vyššie uvedené odporúčame pre dieťa odklad školskej dochádzky. \n'
     // +
     // 'Rodinná anamnéza: Dieťa vyrastá v úplnej rodine, súrodencov nemá. Matka aj otec majú ukončené vysokoškolské vzdelanie humanitného zamerania, obaja sú zamestnaní a pracujú v štátnej správe ( v exekutíve ). Rodina žije v meste, v rodinnom dome, A.B. má samostatnú detskú izbu.\n' +
     //     'Matka neuvádza v rodine výskyt súvzťažných druhov ochorení alebo narušení. U otca je prítomné zrýchlené tempo reči ( v detstve u neho bola diagnostikovaná dyslália – rotacizmus, t.č. v norme ), iné druhy NKS sa podľa neho v rodine nevyskytli. Rodičia neuvádzajú žiadne patologické faktory rodinného prostredia.\n' +
