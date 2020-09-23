@@ -142,6 +142,19 @@ export function korpus() {
         'Záver: Dieťa vo veku 6 rokov a 1 mesiac s oneskoreným a následne narušeným vývinom reči, s primeranou pragmatickou jazykovou rovinou, s primeraným porozumením reči, s rozvíjajúcou sa lexikálno-sémantickou jazykovou rovinou a narušenou morfologicko-syntaktickou jazykovou rovinou vzhľadom k veku, spolupráca dieťaťa je primeraná, kognitívne schopnosti sú orientačne v pásme širšej normy.\n' +
         'Odporúčame naďalej intenzívnu logopedickú rehabilitáciu, intenzívny rozvoj slovnej zásoby, rozvoj morfologicko-syntaktickej jazykovej roviny, stimulovať kognitívny vývin, stimulovať oromotorický tréning.\n' +
         'Vzhľadom na vyššie uvedené odporúčame pre dieťa odklad školskej dochádzky. \n'
+    +
+        'Správa z vyšetrenia: Dieťa navštevuje ambulanciu klinickej logopédie 1-2 krát za mesiac od septembra 2019 kvôli narušenej komunikačnej schopnosti - palatolálii pri základnej vrodenej diagnóze - rázštep mäkkého a tvrdého podnebia s ľavostranným rázštepom pery.\n' +
+        'Dieťa je v domácej starostlivosti s mamkou, žije v úplnej rodine, má staršiu sestru.\n' +
+        'Jakubko je počas vyšetrenia dobre emocionálne ladený, sedí samostatne za stolom, nepotrebuje neustály kontakt s rodičom. Spolupracuje primerane, má záujme o predkladané hračky a predmety. Počas terapie sleduje tvár hovoriaceho, zvláda spoločnú pozornosť, koncentrácia je primeraná veku. Dodržiava jednoduché pokyny a pravidlá hry. Zrakový kontakt nadväzuje prirodzene.\n' +
+        '\n' +
+        'Impresívna zložka reči: Dieťa rozumie bežnej dennej konverzácii, ktorá je spojená s denným režimom a rituálmi. Pasívna slovná zásoba je primeraná veku a podľa mamky sa primerane rozvíja.\n' +
+        '\n' +
+        'Expresívna zložka reči: Dieťa začína komunikovať verbálnou rečou tvorenou prevažne na úrovní jednoslovných prehovorov. Aktívny slovník sa rozvíja. Dieťa komunikuje zámerne, komunikácia je funkčná, prebieha výmena informácií. Reč je prevažne samohlásková. Aktuálne prebieha nácvik perno-perných konsonantov P,B,M, ktoré dieťa používa kontextovo na 50-60%.\n' +
+        'Velofaryngeálny mechanizmus hodnotíme ako možný, ale nie celkom dostatočný. Rezonancia počas prehovorov je prevažne hypernazálna, dieťa preferuje velárnu artikuláciu.\n' +
+        'Oromotorika dieťaťa je stimulovaná.\n' +
+        'Kognitívne úlohy hodnotíme orientačne v pásme širšieho priemeru.\n' +
+        '\n' +
+        'Záver: dieťa vo veku 2 roky a 11 mesiacov s rázštepom mäkkého a tvrdého podnebia s ľavostranným rázštepom pery, s palatoláliou, s primeraným porozumením, s primeranou pragmatickou jazykovou rovinou, s rozvíjajúcou sa aktívnou a pasívnou slovnou zásobou, s preferovaním velárnej artikulácie, s hypernazálnou rezonanciou a oslabeným velofaryngeálnym mechanizmom počas prehovorov. Odporúčame intenzívnu dlhodobú rečovú rehabilitáciu. '
     // +
     // 'Rodinná anamnéza: Dieťa vyrastá v úplnej rodine, súrodencov nemá. Matka aj otec majú ukončené vysokoškolské vzdelanie humanitného zamerania, obaja sú zamestnaní a pracujú v štátnej správe ( v exekutíve ). Rodina žije v meste, v rodinnom dome, A.B. má samostatnú detskú izbu.\n' +
     //     'Matka neuvádza v rodine výskyt súvzťažných druhov ochorení alebo narušení. U otca je prítomné zrýchlené tempo reči ( v detstve u neho bola diagnostikovaná dyslália – rotacizmus, t.č. v norme ), iné druhy NKS sa podľa neho v rodine nevyskytli. Rodičia neuvádzajú žiadne patologické faktory rodinného prostredia.\n' +
