@@ -217,6 +217,21 @@ export function korpus() {
         'Podľa mamky je sebaobsluha v domácom prostredí problematická, musia ho kŕmiť (problém s jednotlivými konzistenciami mamka neuvádza). Tomáško je zatiaľ plienkovaný, doma sa občas pýta. Keď je v kontakt s deťmi, pohrá sa.\n' +
         '\n' +
         'Záver: Dieťa vo veku 2 roky s oneskoreným vývinom reči, s mierne oslabenou  impresívnou zložkou reči a s narušenou expresívnou zložkou reči s neprimeranou pragmatikou jazykovou rovinou, s podpriemernou pasívnou a aktívnou slovnou zásobou vzhľadom k veku, s neprimeraným správaním vzhľadom k veku počas terapie (hyperkinetické správanie) . Odporúčame dodržiavať komunikačné stratégie (mamka poučená), odporúčame rozvíjať aktívnu slovnú zásobu dieťaťa, rozvíjať porozumenie reči, rozvíjať kognitívne schopnosti a zlepšovať pozornosť. Odporúčame pravidelnú a intenzívnu rečovú rehabilitáciu. Odporúčame psychologické a liečebno pedagogické vyšetrenie a sledovanie. '
+    +
+        'Správa z vyšetrenia: Dieťa navštívilo ambulanciu klinickej logopédie v septembri 2020 pre symptomatickú poruchu reči pri primárnej diagnóze Downov syndróm a obojstranná percepčná stredne ťažká porucha sluchu. Pridelené načúvacie prístroje Widex. Posledná kontrola na foniatrii v roku 2018.\n' +
+        'Dieťa prichádza na stretnutie v doprovode vychovávateľky. Dieťa je klientom CDR.\n' +
+        'U dieťaťa evidujeme motorický nekľud, dieťa odmieta sedieť, pozornosť dieťaťa je výrazne oscilujúca.\n' +
+        'Počas vyšetrenia sa nám nepodarilo zaujať dieťa ponúkanými predmetmi a hračkami, dieťa nemá vytvorenú  spoločnú pozornosť. Prekomunikačné správanie hodnotíme neprimerané vzhľadom k veku.\n' +
+        'Na zvuky okolia sme nezaznamenali žiadne sluchové reakcie.\n' +
+        'Dieťa je kŕmené lyžicou, chlebík požuje sám čiastočne, hygienické návyky dieťa nemá osvojené. Samostatná chôdza rozvinutá od mája 2020.\n' +
+        'Expresia:\n' +
+        'V expresii dieťaťa evidujeme len občasné náhodné vokály a náhodne tvorené slabiky. Produkcia dieťaťa je nezrozumiteľná, bez významu. Prejavuje sa často krikom a neartikulovanými zvukmi.\n' +
+        'Impresia:\n' +
+        'Impresia dieťaťa je vzhľadom na vek dieťaťa neprimeraná. Dieťa nereaguje na pokyny, bežným denným frázam nerozumie, čiastočne sa orientuje pomocou neverbálnych podnetov a pokynov a pomocou rituálnych denných situácií.\n' +
+        'Kognitívne schopnosti dieťaťa sú orientačne v pásme hlbokého podpriemeru.\n' +
+        '\n' +
+        'Záver: Dieťa vo veku 3 roky a 7 mesiacov so symptomatickou poruchou reči pri primárnej diagnóze Downov syndróm, s obojstrannou percepčnou poruchou sluchou stredne ťažkého stupňa korigovanou NA Widex narušeným porozumením reči, s podpriemernou aktívnou slovnou zásobou vzhľadom k veku, s podpriemernými kognitívnymi schopnosťami, s neprimeraným správaním vzhľadom k veku počas terapie, s výrazne oslabenou kvalitou pozornosti.\n' +
+        'Odporúčame dodržiavať komunikačné stratégie (zákonný zástupca poučený), rozvíjať porozumenie reči, kognitívne schopnosti a zlepšovať pozornosť, odporúčame pravidelné nosenie NA, odporúčame pravidelnú a intenzívnu rečovú rehabilitáciu, odporúčame kontrolné vyšetrenie na foniatrickej ambulancii. Psychologické vyšetrenie má dieťa zabezpečené v rámci CDR'
     // +
     // 'Rodinná anamnéza: Dieťa vyrastá v úplnej rodine, súrodencov nemá. Matka aj otec majú ukončené vysokoškolské vzdelanie humanitného zamerania, obaja sú zamestnaní a pracujú v štátnej správe ( v exekutíve ). Rodina žije v meste, v rodinnom dome, A.B. má samostatnú detskú izbu.\n' +
     //     'Matka neuvádza v rodine výskyt súvzťažných druhov ochorení alebo narušení. U otca je prítomné zrýchlené tempo reči ( v detstve u neho bola diagnostikovaná dyslália – rotacizmus, t.č. v norme ), iné druhy NKS sa podľa neho v rodine nevyskytli. Rodičia neuvádzajú žiadne patologické faktory rodinného prostredia.\n' +
