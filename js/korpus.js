@@ -232,6 +232,24 @@ export function korpus() {
         '\n' +
         'Záver: Dieťa vo veku 3 roky a 7 mesiacov so symptomatickou poruchou reči pri primárnej diagnóze Downov syndróm, s obojstrannou percepčnou poruchou sluchou stredne ťažkého stupňa korigovanou NA Widex narušeným porozumením reči, s podpriemernou aktívnou slovnou zásobou vzhľadom k veku, s podpriemernými kognitívnymi schopnosťami, s neprimeraným správaním vzhľadom k veku počas terapie, s výrazne oslabenou kvalitou pozornosti.\n' +
         'Odporúčame dodržiavať komunikačné stratégie (zákonný zástupca poučený), rozvíjať porozumenie reči, kognitívne schopnosti a zlepšovať pozornosť, odporúčame pravidelné nosenie NA, odporúčame pravidelnú a intenzívnu rečovú rehabilitáciu, odporúčame kontrolné vyšetrenie na foniatrickej ambulancii. Psychologické vyšetrenie má dieťa zabezpečené v rámci CDR'
+    +
+        'Správa z vyšetrenia: dieťa navštevuje ambulanciu klinićkej logopédie od augusta 2022 pre symptomatickú poruchu reči, sprevádzajúcu dominujúce ochorenie.\n' +
+        'Dieťa prichádza na terapiu s matkou, matka je prítomná počas vyšetrenia v ambulancii. Dieťa nemá súrodenca, kolektív rovesníkov v MŠ nenavštevuje.\n' +
+        'RA: bpn\n' +
+        'OA: Dieťa z prvej rizikovej gr, pôrod akútnou SC pre preeklampsiu matky, v 27 gt AS 5/7, od narodenia rehabilitované, samostatná chôdza až po 2 roku, je sledované na odb. ambulanciách (detský neurológ, detský oftalmológ), je po operácií očka.\n' +
+        'Prostredie ambulancie je dieťaťu už známe, vstupuje prirodzene, sadá si za stolík. Očný kontakt dieťa vie nadviazať aj udržať, pozornosť je riadená záujmom dieťa, ale usmerniteľná, spolupráca nie je vzľadom na vek dieťaťa primeraná, sústredenosť - oscilujúca.\n' +
+        'Súčasný status:\n' +
+        'ORM schopnosti- oslabenie ORF svalstva, hypersenzitivita v oblasti ORF svalstva,  bilabiálny záver nedostatočný, protrúzia pier - čiastočná, MP pohyblivé, motilita jazyka - protrúzia jazyka - v obmedzenom rozsahu, laterálny pohyb - čiastočný, elevácia - žiadna, nevyrovnaný svalový tonus jazyka, oslabenie v strednej a zadnej časti, nafúknutie líc - čiastočné, mandibula - laterálny pohyb -správny.\n' +
+        'Prehĺtanie - spracovanie jedla je s dlhšou latenciou, po hltoch, orálna transportná fáza je predĺžená, pitie z pohára zvláda, pri jedení používa plytkú polievkovú lyžicu.\n' +
+        'Expresia:dieťa komunikuje s okolím verbálnou rečou, ktorá je na úrovni viacslovných prehovorov. Verbálna produkcia dieťaťa je pre cudzieho KP ťažšie zrozumiteľná, pre prevažne samohláskovú reč. Narušené sú všetky jazykové roviny.\n' +
+        'Fonetický repertoár dieťaťa nie je kompletný. Zrelé hlásky v produkcii dieťaťa sú: B, H, J, M, N, P, T, V a vokály, začína sa objavovať produkcia labio-dentálnych hlások.\n' +
+        'Aktívna slovná zásoba dieťaťa sa rozvíja, vzľadom na vek je narušená. Dieťa má záujem o knihy, známe texty dokáže doplniť. Slovná zásoba dieťaťa je tvorená prevažne pods. menami, abstentuje produkcia ostatných slovných druhov.\n' +
+        'Impresia: porozumenie reči je vzhľadom na vek dieťaťa narušené, porozumenie jednostupňovým inštrukciám je prítomné. Porozumenie zložitejších logicko-gramatických štruktúr (gramatika s predložkami) je narušené.\n' +
+        'Záver: dieťa vo veku 4,11 so symptomatickou poruchou reči v dôsledku dominujúceho ochorenia, s narušením vo všetkých jazykových rovinách. S narušenou pasívnou a aktívnou slovnou zásobou vzhľadom k veku dieťaťa.\n' +
+        'V súčasnom klinickom obraze dieťaťa sa ďalej manifestujú symptómy dysfágie, s poruchou v orálnej fáze.\n' +
+        'Odporúčania: cvičenia na posilnenie svalov tváre a pier, zlepšenie rozsahov pohybov jazyka, posilňovanie hrotu jazyka, cvičenie koreňa jazyka, cvičenie MP, fonačné cvičenia, ORF. stimulácia, prvky desenzibilizácie.\n' +
+        'Ďalej odporúčame rozvíjať impresiu dieťaťa na viacstupňovej úrovni, rozvíjať aktívnu slovnú zásobu o slovesá, dbať na výmenu rolí, rozširovať fonetický inventár dieťaťa, stimulovať kognítivné schopnosti.\n' +
+        'Vzhľadom na vyššie uvedené, odporúčame prideliť preukaz ZŤP.'
     // +
     // 'Rodinná anamnéza: Dieťa vyrastá v úplnej rodine, súrodencov nemá. Matka aj otec majú ukončené vysokoškolské vzdelanie humanitného zamerania, obaja sú zamestnaní a pracujú v štátnej správe ( v exekutíve ). Rodina žije v meste, v rodinnom dome, A.B. má samostatnú detskú izbu.\n' +
     //     'Matka neuvádza v rodine výskyt súvzťažných druhov ochorení alebo narušení. U otca je prítomné zrýchlené tempo reči ( v detstve u neho bola diagnostikovaná dyslália – rotacizmus, t.č. v norme ), iné druhy NKS sa podľa neho v rodine nevyskytli. Rodičia neuvádzajú žiadne patologické faktory rodinného prostredia.\n' +
